@@ -50,8 +50,6 @@
 
     });
 
-
-
     describe('2. Sum of Integers', function() {
       var originalSum;
 
